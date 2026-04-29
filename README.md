@@ -127,8 +127,15 @@ LoginScreen
 
 <img width="1908" height="881" alt="Screenshot 2026-04-29 151015" src="https://github.com/user-attachments/assets/9249a2aa-1c6f-4a52-b283-7a4a3974ee1c" />
 
+show Leave of Employee
+
 <img width="1908" height="844" alt="Screenshot 2026-04-29 150958" src="https://github.com/user-attachments/assets/0d026d64-7419-44e7-b708-286693d5ca9d" />
+
+Mangage Departments
+
 <img width="1915" height="850" alt="Screenshot 2026-04-29 150933" src="https://github.com/user-attachments/assets/2e186b99-a60e-4481-a0f8-c0c62f90680a" />
+
+        Magange Employees 
 <img width="1892" height="815" alt="Screenshot 2026-04-29 150915" src="https://github.com/user-attachments/assets/5640ff08-2ee5-4650-806d-a55427abb433" />
 
 
